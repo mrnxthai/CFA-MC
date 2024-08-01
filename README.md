@@ -1,5 +1,6 @@
 # CFA-MC
 Sử dụng phương pháp phản thực tăng cường dữ liệu cho bài toán mất cân bằng lớp
+
 Bao gồm 2 thuật toán:
 
 1. Thuật toán CFA (dành cho phân loại nhị phân)
